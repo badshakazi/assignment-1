@@ -1,0 +1,94 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+p {
+    margin-bottom: 40px;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.half-width {
+
+    width: 50%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(orange, tomato);
+    margin-top: 200px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    font-weight: 400px;
+}
+
+.about-me {
+    background-image: url(frame/7.png);
+
+}
+
+.my-recipies {
+    text-align: center;
+    margin: 0;
+
+}
+
+.recipie {
+    display: flex;
+}
+
+.recipie-tital {
+    box-shadow: 10px 10px 30px yellowgreen;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+
+    padding: 2%;
+    border-radius: 20px;
+    width: 33.33%;
+    height: 33%;
+
+}
+
+.recipie-tital img {
+    width: 100%;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    margin-top: 5%;
+    padding: 50px 2px 50px 10px;
+}
+
+.darkgray {
+    color: darkgray;
+}
+
+footer p {
+    color: white;
+}
